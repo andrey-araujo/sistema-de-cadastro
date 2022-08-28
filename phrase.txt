@@ -7,5 +7,8 @@ git config --global user.name "user.name"
 git log --oneline //comando para ver as alterações que foram feitas
 git status //mostra onde estamos nas alterações do projeto
 
+git checkout -b "nome da branch" // para criar uma nova branch
+git switch "branch que quer selecionar" // para alternar entre branchs
+
 1 - git commit (nomedoarquivo ou . para todo projeto) -m "titulo para o commit"
 2 - git restore ---source "número do commit" //comando para restaurar o projeto a partir de x commit
