@@ -4,3 +4,5 @@ teste
 
 git config --global user.email "e-mail"
 git config --global user.name "user.name"
+git log --oneline //comando para ver as alterações que foram feitas
+git restore ---source "número do commit" //comando para restaurar o projeto a partir de x commit
