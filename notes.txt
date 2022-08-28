@@ -1,0 +1,7 @@
+Caminho 1: criar uma branch para cada aula do curso com o comando:
+git checkout -b nome-da-branchCOPIAR CÓDIGO
+Com esse comando, você cria uma nova branch e muda automaticamente para ela para dar início ao desenvolvimento.
+
+Caminho 2: criar uma branch para cada aula do curso com o comando:
+git branch nome-da-branchCOPIAR CÓDIGO
+Essa é outra forma de criar uma branch. Nesse caso, ela é criada, mas não há a mudança automática para esta nova ramificação. Para isso, você pode usar o comando git switch nome-da-branch.
