@@ -1,3 +1,6 @@
 gremio e minha vida/
 
 teste
+
+git config --global user.email "e-mail"
+git config --global user.name "user.name"
