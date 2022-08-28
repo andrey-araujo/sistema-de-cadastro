@@ -6,6 +6,7 @@ git config --global user.email "e-mail"
 git config --global user.name "user.name"
 git log --oneline //comando para ver as alterações que foram feitas
 git status //mostra onde estamos nas alterações do projeto
+git branch //para ver as branchs existentes e em qual se encontra
 
 1 - git commit (nomedoarquivo ou . para todo projeto) -m "titulo para o commit"
 2 - git restore ---source "número do commit" //comando para restaurar o projeto a partir de x commit
